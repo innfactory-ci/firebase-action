@@ -1,4 +1,4 @@
-FROM node:10-slim
+FROM node:14.4.0-slim
 
 LABEL version="1.1.0"
 LABEL repository="https://github.com/innfactory-ci/firebase-action"
